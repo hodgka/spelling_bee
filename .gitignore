@@ -1,0 +1,17 @@
+*.bin
+ols.json
+odinfmt.json
+opm
+Taskfile.yml
+*.exe
+docs/build
+
+# Example binaries.
+minimal
+complete
+readme
+routing
+
+tests/tests
+build/
+libs/
