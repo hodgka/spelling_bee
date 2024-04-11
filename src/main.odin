@@ -9,7 +9,7 @@ import "core:mem"
 import "core:runtime"
 import rl "vendor:raylib"
 
-import hg "../libs/hex_grid"
+import hg "../libs/hex_grid/hex_grid"
 
 PALETTE_COLOR :: enum{YELLOW, GRAY, WHITE, BLACK}
 
